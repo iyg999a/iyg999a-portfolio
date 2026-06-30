@@ -102,7 +102,7 @@ form.addEventListener("submit", async (e) => {
     };
 
     try {
-        const response = await fetch("http://localhost:3000/api/contact", {
+        const response = await fetch("https://iyg999a-portfolio.onrender.com/api/contact", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
