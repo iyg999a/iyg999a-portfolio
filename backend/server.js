@@ -11,7 +11,7 @@ app.use(express.json())
 connectDB()
 app.use("/api/contact", contactRoutes);
 app.use("/", ()=>{
-    resizeBy.send("Running")
+    res.send("Running")
 })
 
 app.listen(3000, ()=>{
