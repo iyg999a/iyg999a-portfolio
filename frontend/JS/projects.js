@@ -1,3 +1,4 @@
+alert("please view on a laptop/computer")
 const projects = [
     {
         title: "DMAT",
