@@ -535,7 +535,7 @@ hr{
     }
     #contact{
         width: min(1200px, 100%);
- 
+        height: fit-content;
     }
     .contact-container{
         gap: space-between;
