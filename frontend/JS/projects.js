@@ -1,6 +1,6 @@
 if (window.innerWidth < 1024) {
-    alert("Please view this portfolio on a laptop/computer for the best experience.");
-}
+    // alert("Please view this portfolio on a laptop/computer for the best experience.");
+}  
 const projects = [
     {
         title: "DMAT",
