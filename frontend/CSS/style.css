@@ -584,6 +584,9 @@ hr{
     .social-cards a img{
         width: 35px;
     }
+    #footer{
+        font-size: 13px;
+    }
 
     
 }
