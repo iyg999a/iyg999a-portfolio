@@ -448,7 +448,6 @@ hr {
 
 .contact-form textarea {
     resize: none;
-    rows: 5;
 }
 
 .contact-form input::placeholder,
