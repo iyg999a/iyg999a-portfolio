@@ -31,4 +31,4 @@ I enjoy learning new technologies, exploring full-stack development, and continu
 ## Connect
 
 - GitHub: https://github.com/iyg999a
-- LinkedIn: *(Add your LinkedIn profile)*
+- LinkedIn: https://www.linkedin.com/in/iyg999a/
